@@ -8,5 +8,5 @@
  * rootProject.name = 'cicd-pipeline-train-schedule-jenkins'
  */
 
-rootProject.name = 'Project2-DevOps-Certifcate-Pipeline-gradle'
+rootProject.name = 'cicd-pipeline-train-schedule-jenkins'
 
